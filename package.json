@@ -1,0 +1,21 @@
+{
+  "name": "omnicalc",
+  "version": "1.0.0",
+  "description": "Precision calculator web app with dual temporary memory registers and calculation history tape",
+  "main": "index.html",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "keywords": [
+    "calculator",
+    "web-app",
+    "memory",
+    "glassmorphism"
+  ],
+  "author": "",
+  "license": "ISC"
+}
